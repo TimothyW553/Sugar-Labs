@@ -1,2 +1,1 @@
-# Sugar-Labs
-Google Code-in
+My First Repository
